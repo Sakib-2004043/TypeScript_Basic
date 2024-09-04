@@ -51,7 +51,7 @@ const person2: man = {
   }
 };
 
-function App() {
+function App(): JSX.Element {
   // Return Void 
   printName("Void Function")
 
